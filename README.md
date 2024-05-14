@@ -1,7 +1,7 @@
 # terminal-player
 Play video (mp4) to ASCII in your terminal when you lose your desktop somewhere.
 ## Requirments
-Your terminal must support ANSI escape codes.
+ffmpeg and your terminal must support ANSI escape codes.
 ## Usage
 First build it using cargo or rust compiler.
 Then:
